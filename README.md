@@ -9,7 +9,7 @@ To add a company, either [create an issue](https://github.com/shubheksha/compani
 
 
 
-| Name  | Location  |Roles sponsered  |  Careers page |  Relocation bonus? |
-|-------|-----------|-----------------|---------------|--------------------|
-|       |           |                 |               |                    |
-|       |           |                 |               |                    |
+| Name  | Location(s)  |Roles sponsored  |  Careers page |  Relocation bonus? |
+|-------|--------------|-----------------|---------------|--------------------|
+|       |              |                 |               |                    |
+|       |              |                 |               |                    |
