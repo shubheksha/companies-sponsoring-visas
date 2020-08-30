@@ -11,5 +11,6 @@ To add a company, either [create an issue](https://github.com/shubheksha/compani
 
 | Name  | Location(s)  |Roles sponsored  |  Careers page |  Relocation bonus? |
 |-------|--------------|-----------------|---------------|--------------------|
-|       |              |                 |               |                    |
-|       |              |                 |               |                    |
+| Stripe| London, UK <br>Dublin, IE| Engineering| https://stripe.com/jobs| N/A|       
+| Shopify| Toronto/Ottawa, CA <br> London, UK <br> Berlin, DE| Engineering| https://shopify.com/careers| ✅|
+| Spotify| Stockholm, SE <br> London, UK| Engineering| https://www.spotifyjobs.com/| ✅|
