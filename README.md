@@ -14,3 +14,4 @@ To add a company, either [create an issue](https://github.com/shubheksha/compani
 | Stripe| London, UK <br>Dublin, IE| Engineering| https://stripe.com/jobs| N/A|       
 | Shopify| Toronto/Ottawa, CA <br> London, UK <br> Berlin, DE| Engineering| https://shopify.com/careers| ✅|
 | Spotify| Stockholm, SE <br> London, UK| Engineering| https://www.spotifyjobs.com/| ✅|
+| Zalando| Berlin, DE <br> Dublin, IE <br> Helsinki, FI <br> Dortmund, NRW| Engineering| https://jobs.zalando.com/en/jobs/| ✅|
