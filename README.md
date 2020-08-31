@@ -16,3 +16,5 @@ To add a company, either [create an issue](https://github.com/shubheksha/compani
 | Spotify| Stockholm, SE <br> London, UK| Engineering| https://www.spotifyjobs.com/| ✅|
 | Zalando| Berlin, DE <br> Dublin, IE <br> Helsinki, FI <br> Dortmund, NRW| Engineering| https://jobs.zalando.com/en/jobs/| ✅|
 | Deliveryhero| Berlin, DE| Engineering| https://careers.deliveryhero.com/global/en| ✅|
+| Datadog| Paris| Engineering| https://www.datadoghq.com/careers/| N/A|
+| Revolut| Berlin & Krakow | Engineering| https://www.revolut.com/en-US/careers| N/A|
