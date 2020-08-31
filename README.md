@@ -17,3 +17,4 @@ To add a company, either [create an issue](https://github.com/shubheksha/compani
 | Zalando| Berlin, DE <br> Dublin, IE <br> Helsinki, FI <br> Dortmund, NRW| Engineering| https://jobs.zalando.com/en/jobs/| ✅|
 | Deliveryhero| Berlin, DE| Engineering| https://careers.deliveryhero.com/global/en| ✅|
 | Intercom| London, UK <br>Dublin, IE| Design, Engineering, Product| https://www.intercom.com/careers| ✅|
+| Diet Doctor | Stockholm, SE | Various | https://careers.dietdoctor.com/ | N/A |      
