@@ -9,6 +9,8 @@ To add a company, either [create an issue](https://github.com/shubheksha/compani
 
 **Please verify this information as it may not always be fully up-to-date, especially in the current economic climate.**
 
+I wrote a blog post about [how I moved from India to Europe](https://shubheksha.com/posts/2020/08/how-i-moved-from-india-to-europe-for-a-tech-job/) for a tech job if you're looking for some more guidance.
+
 
 | Name  | Location(s)  |Roles sponsored  |  Careers page |  Relocation bonus? |
 |-------|--------------|-----------------|---------------|--------------------|
