@@ -16,8 +16,14 @@ To add a company, either [create an issue](https://github.com/shubheksha/compani
 | Spotify| Stockholm, SE <br> London, UK| Engineering| https://www.spotifyjobs.com/| ✅|
 | Zalando| Berlin, DE <br> Dublin, IE <br> Helsinki, FI <br> Dortmund, NRW| Engineering| https://jobs.zalando.com/en/jobs/| ✅|
 | Deliveryhero| Berlin, DE| Engineering| https://careers.deliveryhero.com/global/en| ✅|
-| Datadog| Paris, FR | Engineering| https://www.datadoghq.com/careers/| N/A|
+| Datadog| Paris, FR <br> London, UK | Engineering| https://www.datadoghq.com/careers/| N/A|
 | Revolut| Berlin, DE <br> Krakow, PL | Engineering| https://www.revolut.com/en-US/careers| N/A|
 | Intercom| London, UK <br>Dublin, IE| Design, Engineering, Product| https://www.intercom.com/careers| ✅|
 | Diet Doctor | Stockholm, SE | Various | https://careers.dietdoctor.com/ | N/A |      
 | HelloFresh | Berlin, DE | Engineering | https://www.hellofresh.com/careers/ | N/A | 
+| Etsy | Dublin, IE | Engineering | https://www.etsy.com/uk/careers#engineering | N/A |
+| Hashicorp | Berlin, DE <br> London, UK | Engineering | https://www.hashicorp.com/jobs#engineering | N/A |
+| Transferwise | London, UK | Engineering | https://www.transferwise.jobs/ | N/A |
+| Skyscanner | London, UK | Engineering | https://www.skyscanner.net/jobs/current-jobs/ | N/A |
+| Twilio | London, UK | Engineering | https://www.twilio.com/company/jobs | N/A |
+| Monzo | London, UK | Engineering/Product | https://monzo.com/careers/ | ✅ |
