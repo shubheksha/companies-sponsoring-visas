@@ -27,6 +27,11 @@ I wrote a blog post about [how I moved from India to Europe](https://shubheksha.
 | Etsy | Dublin, IE | Engineering | https://www.etsy.com/uk/careers#engineering | N/A |
 | Hashicorp | Berlin, DE <br> London, UK | Engineering | https://www.hashicorp.com/jobs#engineering | N/A |
 | Transferwise | London, UK | Engineering | https://www.transferwise.jobs/ | N/A |
-| Skyscanner | London, UK | Engineering | https://www.skyscanner.net/jobs/current-jobs/ | N/A |
+| Skyscanner | London, UK | Senior engineering roles | https://www.skyscanner.net/jobs/current-jobs/ | N/A |
 | Twilio | London, UK | Engineering | https://www.twilio.com/company/jobs | N/A |
 | Monzo | London, UK | Engineering/Product | https://monzo.com/careers/ | ✅ |
+| Deliveroo | London, UK | Engineering | https://careers.deliveroo.co.uk/ | N/A |
+| GoCardless | London, UK | Engineering | https://gocardless.com/about/careers/ | N/A |
+| Weaveworks | London, UK | Engineering | https://www.weave.works/company/hiring/ | N/A |
+| Cisco | London, UK | Engineering | N/A | N/A |
+| VMWare | London, UK | Tanzu engineering | https://pages.beamery.com/vmware/page/tanzu | N/A |
