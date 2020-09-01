@@ -7,6 +7,7 @@ It's well known that bigger companies do this but there isn't a lot of data on s
 
 To add a company, either [create an issue](https://github.com/shubheksha/companies-sponsoring-visas/issues/new) with the relevant details or send a PR adhering to the format specified and try to provide as much information as possible.
 
+**Please verify this information as it may not always be fully up-to-date, especially in the current economic climate.**
 
 
 | Name  | Location(s)  |Roles sponsored  |  Careers page |  Relocation bonus? |
