@@ -20,3 +20,4 @@ To add a company, either [create an issue](https://github.com/shubheksha/compani
 | Revolut| Berlin, DE <br> Krakow, PL | Engineering| https://www.revolut.com/en-US/careers| N/A|
 | Intercom| London, UK <br>Dublin, IE| Design, Engineering, Product| https://www.intercom.com/careers| ✅|
 | Diet Doctor | Stockholm, SE | Various | https://careers.dietdoctor.com/ | N/A |      
+| HelloFresh | Berlin, DE | Engineering | https://www.hellofresh.com/careers/ | N/A | 
