@@ -35,3 +35,4 @@ I wrote a blog post about [how I moved from India to Europe](https://shubheksha.
 | Weaveworks | London, UK | Engineering | https://www.weave.works/company/hiring/ | N/A |
 | Cisco | London, UK | Engineering | N/A | N/A |
 | VMWare | London, UK | Tanzu engineering | https://pages.beamery.com/vmware/page/tanzu | N/A |
+| QuantumBlack | [Global](https://quantumblack.com/careers/current-openings#content) | Data Science <br> Data Engineering <br> Machine Learning Engineering <br> Software Engineering <br> Design <br> Product Management | https://quantumblack.com/careers/ | ✅ |
