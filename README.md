@@ -39,3 +39,4 @@ I wrote a blog post about [how I moved from India to Europe](https://shubheksha.
 | Adyen | Amsterdam, NL | Engineering | https://careers.adyen.com | N/A |
 | Booking.com | Amsterdam, NL | Engineering | https://careers.booking.com | N/A |
 | QuantumBlack | [Global](https://quantumblack.com/careers/current-openings#content) | Data Science <br> Data Engineering <br> Machine Learning Engineering <br> Software Engineering <br> Design <br> Product Management | https://quantumblack.com/careers/ | ✅ |
+| Trivago | Dusseldorf, DE | Software Engineering <br> Media and Marketing <br> Analytics <br> People |https://company.trivago.com/open-positions/ | ✅|
