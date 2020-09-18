@@ -26,7 +26,7 @@ I wrote a blog post about [how I moved from India to Europe](https://shubheksha.
 | Diet Doctor | Stockholm, SE | Various | https://careers.dietdoctor.com/ | N/A |      
 | HelloFresh | Berlin, DE | Engineering | https://www.hellofresh.com/careers/ | N/A | 
 | Etsy | Dublin, IE | Engineering | https://www.etsy.com/uk/careers#engineering | N/A |
-| Hashicorp | Berlin, DE <br> London, UK | Engineering | https://www.hashicorp.com/jobs#engineering | N/A |
+| Hashicorp | Berlin, DE <br> London, UK | Engineering | https://www.hashicorp.com/jobs/engineering | N/A |
 | Transferwise | London, UK | Engineering | https://www.transferwise.jobs/ | N/A |
 | Skyscanner | London, UK | Senior engineering roles | https://www.skyscanner.net/jobs/current-jobs/ | N/A |
 | Twilio | London, UK | Engineering | https://www.twilio.com/company/jobs | N/A |
