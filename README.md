@@ -42,6 +42,3 @@ I wrote a blog post about [how I moved from India to Europe](https://shubheksha.
 | Trivago | Dusseldorf, DE | Software Engineering <br> Media and Marketing <br> Analytics <br> People |https://company.trivago.com/open-positions/ | ✅|
 | Attest | London, UK | Engineering/Design/Product | https://jobs.lever.co/attest | N/A |
 |Yelp | London, UK | Engineering | https://www.yelp.careers/us/en | ✅ |
-
-
-
