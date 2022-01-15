@@ -41,3 +41,7 @@ I wrote a blog post about [how I moved from India to Europe](https://shubheksha.
 | QuantumBlack | [Global](https://quantumblack.com/careers/current-openings#content) | Data Science <br> Data Engineering <br> Machine Learning Engineering <br> Software Engineering <br> Design <br> Product Management | https://quantumblack.com/careers/ | ✅ |
 | Trivago | Dusseldorf, DE | Software Engineering <br> Media and Marketing <br> Analytics <br> People |https://company.trivago.com/open-positions/ | ✅|
 | Attest | London, UK | Engineering/Design/Product | https://jobs.lever.co/attest | N/A |
+| Swisscom | Riga, Lativa | Engineering | https://www.swisscom.ch/en/about/career/devops-riga.html | ✅ |
+| Accenture | Riga, Lativa | Engineering | https://www.accenture.com/lv-en/careers |  ✅ |
+| Accenture | Vilnius, Lithuania | Engineering | https://www.accenture.com/lv-en/careers/local/accenture-in-lithuania | ✅ |
+| JP Morgan | Glasgow, UK | Engineering | https://careers.jpmorgan.com/global/en/about-us/locations/glasgow | ✅ |
